@@ -1,4 +1,4 @@
-package main.java;
+package com.luv2code.pkg;
 
 public class MySample {
 
